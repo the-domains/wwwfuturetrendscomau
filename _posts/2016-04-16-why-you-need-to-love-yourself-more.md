@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-03T17:39:35.717Z'
+datePublished: '2016-06-03T17:39:39.635Z'
 sourcePath: _posts/2016-04-16-why-you-need-to-love-yourself-more.md
 inFeed: true
 isBasedOnUrl: 'http://www.huffingtonpost.com/sarah-bogdanski/why-you-need-to-love-yourself-more_b_9668778.html?utm_hp_ref=healthy-living'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-03T17:39:34.399Z'
+dateModified: '2016-06-03T17:39:36.939Z'
 title: Why You Need to Love Yourself More
 app_links:
   - url: 'huffpostnews:///?editionID=us&entryID=9668778'
