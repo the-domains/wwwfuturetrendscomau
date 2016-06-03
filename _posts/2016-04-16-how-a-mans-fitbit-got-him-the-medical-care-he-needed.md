@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-03T17:39:35.717Z'
+datePublished: '2016-06-03T17:39:39.635Z'
 sourcePath: _posts/2016-04-16-how-a-mans-fitbit-got-him-the-medical-care-he-needed.md
 inFeed: true
 isBasedOnUrl: 'http://www.buzzfeed.com/stephaniemlee/fitbit-in-the-hospital#.hpzkQq9bY'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-03T17:39:34.305Z'
+dateModified: '2016-06-03T17:39:38.946Z'
 title: "How A Man's Fitbit Got Him The Medical Care He Needed"
 app_links:
   - url: 'buzzfeed://buzz/stephaniemlee/fitbit-in-the-hospital'
