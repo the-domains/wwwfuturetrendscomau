@@ -1,4 +1,3 @@
-layout_spectrum: 0.7846979710739106
 typography_spectrum: 0.9729421262163669
 color:
   brandStrength: 0.16014941153116524
@@ -11,5 +10,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.7846979710739106
 name: www.futuretrends.com.au
 title: Love Humanity
+description: Be an anthropologist
